@@ -1,3 +1,14 @@
+
+🏆 Achievement
+
+🥉 3rd Place — SUSTAIN AGENTIC BOOTCAMP 2026
+
+Designing and Building Sustainable, Intelligent AI Agentic Systems
+SRM Institute of Science and Technology, Kattankulathur
+
+Awarded a Certificate of Merit for our project developed during the bootcamp.
+
+
 # 💰 CashFlow Guardian
 
 ## 7-Day Household Cash-Flow Agent
