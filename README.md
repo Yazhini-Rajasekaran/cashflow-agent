@@ -1,7 +1,7 @@
 
-🏆 Achievement
+# 🏆 Achievement
 
-🥉 3rd Place — SUSTAIN AGENTIC BOOTCAMP 2026
+## 🥉 3rd Place — SUSTAIN AGENTIC BOOTCAMP 2026
 
 Designing and Building Sustainable, Intelligent AI Agentic Systems
 SRM Institute of Science and Technology, Kattankulathur
